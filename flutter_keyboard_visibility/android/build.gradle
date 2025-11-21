@@ -27,7 +27,7 @@ android {
         namespace 'com.jrai.flutter_keyboard_visibility'
     }
 
-    compileSdkVersion 36
+    compileSdkVersion 35
 
     defaultConfig {
         minSdkVersion 16
